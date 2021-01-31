@@ -7,4 +7,6 @@ This is my project space.
 
 * obstaculo
 * jogador
+  * nome
+  * shape
 * tabuleiro
