@@ -10,3 +10,9 @@ This is my project space.
   * nome
   * shape
 * tabuleiro
+
+## obstaculo
+* cor
+* forma 
+* tamanho 
+* carateristicas

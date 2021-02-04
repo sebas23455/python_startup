@@ -21,4 +21,3 @@ if forma_escolhida not in formas:
     
 j1 = Jogador (nome, forma_escolhida)
 print(j1.forma)
-
